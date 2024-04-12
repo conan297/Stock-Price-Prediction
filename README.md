@@ -1,4 +1,5 @@
 Stock Price Prediction
+
 This Jupyter notebook contains code for predicting future stock prices using machine learning algorithms. The notebook is divided into several sections, each of which performs a specific task in the prediction pipeline.
 
 Data Preprocessing
